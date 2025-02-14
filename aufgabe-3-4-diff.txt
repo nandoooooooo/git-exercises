@@ -1,0 +1,3 @@
+Die geaddeten files sind bei git status --short grün markiert.
+
+Die anderen sind rot mit zwei ?.
